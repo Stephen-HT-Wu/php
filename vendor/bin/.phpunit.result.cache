@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ArithmeticTest::testAdd":8,"ArithmeticTest::testSubtract":8},"times":{"ArithmeticTest::testAdd":0.004,"ArithmeticTest::testSubtract":0}}

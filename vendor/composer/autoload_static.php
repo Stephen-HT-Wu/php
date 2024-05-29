@@ -15,6 +15,7 @@ class ComposerStaticInitea5d5493712a97cb62ed8f2393a8b1bd
         'P' => 
         array (
             'PhpParser\\' => 10,
+            'PHP\\' => 4,
         ),
         'D' => 
         array (
@@ -26,6 +27,10 @@ class ComposerStaticInitea5d5493712a97cb62ed8f2393a8b1bd
         'PhpParser\\' => 
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
+        ),
+        'PHP\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'DeepCopy\\' => 
         array (

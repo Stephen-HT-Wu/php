@@ -1,4 +1,5 @@
 <?php
+namespace PHP;
 // 定義一個算數類別
 class Arithmetic {
     // 定義一個加法函數
