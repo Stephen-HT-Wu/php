@@ -1,6 +1,6 @@
 <?php
-use PHPUnit\Framework\TestCase;
-use PHP\Arithmetic;
+use PHPUnit\Framework\TestCase; // unit test 
+use PHP\Arithmetic; // want to test
 
 class ArithmeticTest extends TestCase {
     private $arithmetic;
